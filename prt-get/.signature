@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/pine64-arm.pub
+RWSDgDgY2KszEXcqrdx4yeIEsgkhLbzNGhJ41hA/32U75dAGnaS2FGDxj3ghtzzA4ehiZI12qMoksmwjnh9168kwdlCmB0uBugU=
+SHA256 (Pkgfile) = eb4766ce3b6adbf5cb9f7255eb928f709005fd98b23d43333b8724131c5a7b9f
+SHA256 (.footprint) = 9a36be18f29307db9bfad99ab7bd2fd07b8342b935406bc89b7bde8f804292b6
+SHA256 (prt-get-5.19.5.tar.xz) = 62ea02fd94eda36fbec45d5ff05fef0dabad159d9478bec1a7ab570f70d0fae3
+SHA256 (prt-get.conf) = 9ec0cdb22a5ed2076da9a4d08562dbea7929980dc1706fc2f57f17dee5f8f306
+SHA256 (prt-get.aliases) = df473d38e59d1d6cd859d986a5d6586fdc54bfd51663313c63a939e941984b7b
