@@ -1,4 +1,4 @@
-# crux-ports-raspberrypi3-arm64
+# crux-ports-pine64-arm64
 
 CRUX-ARM aarch64 ports overlay for Pine64
 
