@@ -1,3 +1,0 @@
-host=crux-arm.nu
-collection=ports/crux-3.6/pine64-arm/
-destination=/usr/ports/pine64-arm
