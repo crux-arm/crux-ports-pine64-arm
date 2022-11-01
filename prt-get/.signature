@@ -1,7 +1,7 @@
-untrusted comment: verify with /etc/ports/pine64-arm.pub
-RWSDgDgY2KszEXcqrdx4yeIEsgkhLbzNGhJ41hA/32U75dAGnaS2FGDxj3ghtzzA4ehiZI12qMoksmwjnh9168kwdlCmB0uBugU=
-SHA256 (Pkgfile) = eb4766ce3b6adbf5cb9f7255eb928f709005fd98b23d43333b8724131c5a7b9f
-SHA256 (.footprint) = 9a36be18f29307db9bfad99ab7bd2fd07b8342b935406bc89b7bde8f804292b6
-SHA256 (prt-get-5.19.5.tar.xz) = 62ea02fd94eda36fbec45d5ff05fef0dabad159d9478bec1a7ab570f70d0fae3
-SHA256 (prt-get.conf) = 9ec0cdb22a5ed2076da9a4d08562dbea7929980dc1706fc2f57f17dee5f8f306
+untrusted comment: verify with /etc/ports/pine64-arm64.pub
+RWSDgDgY2KszEZWjI4vY1LZk1JUBpjJVkwU/PnaFJ+jJ1XmH/Xe93zUvN1lNMOZuAcad3K776oz37EUw3ykeDJQX3NdWo2tvMwM=
+SHA256 (Pkgfile) = ade6ded9ff960ea4ab6301beb05a102cc78ac9f948bc2e5360724c11b067736f
+SHA256 (.footprint) = 26802764ae3ae1e1a73ea56c859b3415e250a72ea444af410381df8c8f5d3ac8
+SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
+SHA256 (prt-get.conf) = c4a62ad856c680798e0e78eb7dc959264c36a7f46d10c9591f89fa3a5513ed72
 SHA256 (prt-get.aliases) = df473d38e59d1d6cd859d986a5d6586fdc54bfd51663313c63a939e941984b7b
